@@ -357,7 +357,7 @@ type MethodContext = {
  */
 export const model = {
   type: "@mgreten/todoist-watcher",
-  version: "2026.06.27.1",
+  version: "2026.07.16.1",
   globalArguments: GlobalArgsSchema,
   resources: {
     pollResult: {

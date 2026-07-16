@@ -1,6 +1,6 @@
 manifestVersion: 1
 name: "@mgreten/todoist-watcher"
-version: "2026.06.27.1"
+version: "2026.07.16.1"
 description: >
   Multi-machine Todoist task watcher and dispatcher: scans projects owned by the
   current machine for trigger-labelled tasks, respects per-project schedule
