@@ -1,6 +1,6 @@
 manifestVersion: 1
 name: "@mgreten/todoist-watcher"
-version: "2026.07.16.1"
+version: "2026.10.14.1"
 description: >
   Multi-machine Todoist task watcher and dispatcher: scans projects owned by the
   current machine for trigger-labelled tasks, respects per-project schedule
@@ -8,6 +8,7 @@ description: >
   backoff, and emits a structured dispatch list for a host executor.
 
 repository: https://github.com/meagerfindings/swamp-todoist-watcher
+license: MIT
 
 models:
   - todoist_watcher.ts
